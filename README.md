@@ -16,31 +16,31 @@
 
 4、点击右上角“···”选择”扩展“
 
-![截屏2023-03-25 00.28.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db7ae539-6517-4675-8b61-6e327d811f8f/%E6%88%AA%E5%B1%8F2023-03-25_00.28.13.png)
+![截屏2023-03-25 00.28.13.png](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/2.png)
 
 5、选择“管理扩展”
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4507ebe7-ca5c-4398-88d4-e942439af9b0/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/3.png)
 
 6、打开左侧“扩展”中的“开发人员模式”
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6883551b-6026-4ed4-9383-7a9e1c0afc8a/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/4.png)
 
 7、选择“加载解压缩的扩展”
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15495f7f-2b97-4514-80cd-ec3441703529/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/5.png)
 
 8、选择刚刚解压缩的newBingHelper文件夹
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9e19ed3-28f1-4492-8acf-7fc09485a770/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/5.png)
 
 9、然后就可以在“扩展”菜单中，看到了newBing小助手了，点击后面的「小眼睛」可以把扩展放在菜单栏中。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64d23956-55d7-40c9-9449-1ddb27dd0852/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/6.png)
 
 ### 使用方法
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6c1b27a-2bef-442e-bcf3-4b6a0e7ad6d8/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/7.png)
 
 插件非常简单，其实没有什么可说明的，但是讲一下这个软件都做了什么吧。
 
@@ -54,7 +54,7 @@
 
 语言默认是中文，看不懂中文可以去 newBingHelper文件夹里找到popup.js文件。末尾处我给大家留了几个常用语言选项，将5026.1改为对应的数字即可。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21dc0ef6-91e7-4ea7-a44f-abfcf9518d3d/Untitled.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/8.png)
 
 3、「清理Cookies（非必要不使用）」
 
