@@ -32,15 +32,15 @@
 
 8、选择刚刚解压缩的newBingHelper文件夹
 
-![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/5.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/6.png)
 
 9、然后就可以在“扩展”菜单中，看到了newBing小助手了，点击后面的「小眼睛」可以把扩展放在菜单栏中。
 
-![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/6.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/7.png)
 
 ### 使用方法
 
-![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/7.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/8.png)
 
 插件非常简单，其实没有什么可说明的，但是讲一下这个软件都做了什么吧。
 
@@ -54,7 +54,7 @@
 
 语言默认是中文，看不懂中文可以去 newBingHelper文件夹里找到popup.js文件。末尾处我给大家留了几个常用语言选项，将5026.1改为对应的数字即可。
 
-![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/8.png)
+![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/9.png)
 
 3、「清理Cookies（非必要不使用）」
 
