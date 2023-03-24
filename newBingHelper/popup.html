@@ -10,11 +10,16 @@
       }
 
       .container {
-        width: 250px;
-        height: 150px;
+        width: 100%;
+        height: 100%;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .spacer {
+        height: 10px;
       }
 
       #status-bar {
@@ -25,9 +30,12 @@
   <body>
     <div class="container">
       <button id="callHelper">Hi!newBing&#23567;&#21161;&#25163;</button>
+      <div class="spacer"></div>
       <button id="updateSettings">更新Bing设置信息</button>
+      <div class="spacer"></div>
       <button id="clearCookies">清理Cookies(非必要不使用)</button>
-      <div id="status-bar">状态栏：正在使用lipeng0820的默认值，建议更新</div>
+      <div class="spacer"></div>
+      <div id="status-bar">正在使用lipeng0820的默认值，建议更新</div>
     </div>
     <script src="popup.js"></script>
   </body>

@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   chrome.storage.local.get('lastUpdate', (result) => {
     const lastUpdate = result.lastUpdate;
     if (lastUpdate) {
-      document.getElementById('status-bar').textContent = `状态栏：上次更新时间为 ${lastUpdate}`;
+      document.getElementById('status-bar').textContent = `上次更新时间为 ${lastUpdate}`;
     }
   });
 });
@@ -28,7 +28,7 @@ function updateBingSettings() {
       const nBh_language = extractSimplifiedChineseHref(htmlString);
       chrome.storage.local.set({nBh_region: nBh_region, nBh_language: nBh_language, lastUpdate: new Date().toLocaleString()}, () => {
         const currentDate = new Date().toLocaleString();
-        document.getElementById("status-bar").innerText = `状态栏：更新成功，修改时间为 ${currentDate}`;
+        document.getElementById("status-bar").innerText = `更新成功，修改时间为 ${currentDate}`;
       });
     });
 }
@@ -60,7 +60,7 @@ function clearBingCookies() {
     });
   });
 
-  document.getElementById("status-bar").innerText = "状态栏：清除Cookies成功";
+  document.getElementById("status-bar").innerText = "清除Cookies成功";
 }
 
 function extractUsaHrefById(htmlString) {
