@@ -2,6 +2,7 @@
 
 很荣幸的介绍，这是我跟GPT-4模型共同完成的第二个作品，也是第一个插件作品。GPT-4是幕后“写手”，我只是代码的搬运工和裁缝，掌声送给GPT👏！
 
+<img src="https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/1.png" width="100px">
 ![Untitled](https://github.com/lipeng0820/newBingHelper/blob/main/Readme_images/1.png)
 
 下载地址：[https://github.com/lipeng0820/newBingHelper/releases/download/master/newBingHelper.zip](https://github.com/lipeng0820/newBingHelper/releases/download/master/newBingHelper.zip)
