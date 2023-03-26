@@ -68,15 +68,7 @@
 
 **如果遇到“Sorry, looks like your network settings are preventing access to this feature”提示，参考以下做法：**
 
-1、节点先切全局（避免是分流规则的问题）
-
-2、使用小助手一键清理cookies
-
-3、重启上网工具、重启edge浏览器
-
-4、小助手“更新Bing配置信息”
-
-5、重新点击“Hi newBing小助手”
+实测这是由于你所使用的节点被OpenAI屏蔽导致的，你可以去访问ChatGPT的网站试试，也会收到屏蔽提示。没啥好办法，换节点吧。
 
 
 微软的求生欲👍👍👍
